@@ -1,1 +1,5 @@
-
+{
+  "total_payroll": 12500000,
+  "overtime_cost": 1800000,
+  "payroll_growth_yoy": 12
+}
